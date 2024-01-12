@@ -1,5 +1,3 @@
-![image](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/116accec-0657-492d-b0ef-c88d175e8875)# Interview-Challenge-Coraline
-
 ## Introduction
 In the interview Challenge (Data Engineer Internship), I wrote a SQL Script from a movie database and I wrote a Python script retrieves data from API
 
