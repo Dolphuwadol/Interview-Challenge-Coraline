@@ -2,19 +2,14 @@
 In the interview Challenge (Data Engineer Internship), I wrote a SQL Script from a movie database and I wrote a Python script retrieves data from API
 
 ## SQL Script
-ER-diagram movie database
+ER-diagram movie Database
 ![Screenshot 2024-01-12 133029](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/50c0696f-a33f-450b-bf98-f37c0f057f84)
-allocation issues. 5 items:
+Write an sql script with the 5 assigned questions
 1. Display the most popular directors in each movie category.
-(movieggenres)
-2. Display information. How long did each actor perform in total?
-The popularity score is not empty.
-3. Display the number of collaborations between the director and actress through the following methods:
-Only the top 5 actresses who collaborate with the director the most frequently
-4. Change the gen_title type from char (20) to an integer arranged alphabetically, such as an action.
-Convert to 1, animation to 2, biography to 3...
-5. Edit the gender of actors starting with Em, Char, or ending with dy, sy, LIA.
-Female, ignore size.
+2. Display information. How long did each actor perform in tota l? The popularity score is not empty.
+3. Display the number of collaborations between the director and actress through the following methods: Only the top 5 actresses who collaborate with the director the most frequently
+4. Change the gen_title type from char (20) to an integer arranged alphabetically, such as an action.Convert to 1, animation to 2, biography to 3...
+5. Edit the gender of the actor Names starting with the words Em, Char or ending with the words dy, sy, lia are female, regardless of small or large sizes.
 
 
 ## Python Script
