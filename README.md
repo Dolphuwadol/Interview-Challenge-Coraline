@@ -16,5 +16,6 @@ Write an sql script with the 5 assigned questions
 1. Select 20 users in the system by calling the API and collecting data from https://randomuser.me/api
 ![Screenshot 2024-01-12 122814](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/817480f1-e216-45bb-825a-1fe7773a8690)
 
-2-3. Call the API to predict the gender of the user in step 1 and store the data. Gender and Probability (probability) Check the match between the gender from the system and the predicted gender from https://api.genderize.io/?name=
+2-3. Call the API to predict the gender of the user in step 1 and store the data. Gender and Probability.Check the match between the gender from the system and the predicted gender from https://api.genderize.io/?name=
+
 ![Screenshot 2024-01-12 130835](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/c4b3ceeb-0a47-4c92-9776-4332241e2ee4)
