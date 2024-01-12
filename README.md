@@ -1,6 +1,3 @@
-## Introduction
-In the interview Challenge (Data Engineer Internship), I wrote a SQL Script from a movie database and I wrote a Python script retrieves data from API.
-
 ## SQL Script Documentation
 ### Challenge 1
 Objective: Retrieve the most popular directors for each movie genre based on user ratings.
