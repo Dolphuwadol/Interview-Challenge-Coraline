@@ -1,7 +1,7 @@
 ## Introduction
 In the interview Challenge (Data Engineer Internship), I wrote a SQL Script from a movie database and I wrote a Python script retrieves data from API
 
-### SQL 
+## SQL Script
 ER-diagram movie database
 ![Screenshot 2024-01-12 133029](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/50c0696f-a33f-450b-bf98-f37c0f057f84)
 allocation issues. 5 items:
@@ -15,9 +15,9 @@ Only the top 5 actresses who collaborate with the director the most frequently
 Convert to 1, animation to 2, biography to 3...
 5. Edit the gender of actors starting with Em, Char, or ending with dy, sy, LIA.
 Female, ignore size.
-Issues from allocation.
 
-## Python
+
+## Python Script
 Randomly select 20 users and collect data from API randomuser.me
 ![Screenshot 2024-01-12 122814](https://github.com/Dolphuwadol/Interview-Challenge-Coraline/assets/121854744/817480f1-e216-45bb-825a-1fe7773a8690)
 
